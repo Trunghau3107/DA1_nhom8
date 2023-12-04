@@ -63,7 +63,7 @@ foreach ($categories as $category) {
         <div class="header__middle">
             <div class="container">
                 <div class="header__logo">
-                    <img src="uploads/logo.png" width="100%">
+                    <img src="uploads/delicate_logo.jpg" width="70%">
                 </div>
 
                 <div class="header__search">
