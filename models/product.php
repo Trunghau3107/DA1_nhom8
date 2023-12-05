@@ -63,7 +63,7 @@ function hot_product()
             WHERE hot = 1";
     return pdo_query($sql);
 }
-
+dskvnjsdvj
 
 function get_products_by_home()
 {
