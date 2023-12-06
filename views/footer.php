@@ -5,14 +5,14 @@
                 <h4>Thông Tin Liên Hệ</h4>
             </div>
             <ul class="footer__item-main">
-                <li>TLEE JEWELRY – TRANG SỨC BẠC CAO CẤP</li>
+                <li>DELICATE JEWELRY – TRANG SỨC BẠC CAO CẤP</li>
                 <li>Đại diện: Trần Nguyễn Trung Hậu.</li>
                 <li>Mã ĐKKD: 04J800433085</li>
                 <li>Mã số thuế: 87683657ds44-001</li>
                 <li>Ngày cấp: 05/04/2022</li>
                 <li>Nơi cấp: Phòng tài chính – KH – UBND Quận 12</li>
                 <li>Số điện thoại: 0857.241.xxx</li>
-                <li>Email: tleejewelry.cskh@gmail.com</li>
+                <li>Email: delicatejewelry.cskh@gmail.com</li>
             </ul>
         </div>
 
