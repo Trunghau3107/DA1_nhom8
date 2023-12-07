@@ -35,14 +35,14 @@ if (isset($_SESSION["admin"]) && is_array($_SESSION["admin"]) && (count($_SESSIO
         <div class="container">
             <div class="header__logo">
                 <a href="index.php">
-                    <img src="../uploads/logo.png" width="100%">
+                    <img src="../uploads/delicate_logo.jpg" width="100%">
                 </a>
             </div>
 
             <ul class="nav justify-content-center">
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link active" href="index.php?page=statistical">Thống Kê</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link active" href="index.php?page=category">Danh Mục</a>
                 </li>
