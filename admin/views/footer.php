@@ -1,6 +1,6 @@
 <footer style="background-color:#fff">
     <div class="copyright">
-        <p>© 2021 TLEE JEWELRY. All Rights Reserved.</p>
+        <p>© 2021 DELICATE JEWELRY. All Rights Reserved.</p>
     </div>
 </footer>
 

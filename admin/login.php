@@ -41,7 +41,7 @@ if (isset($_POST["admin-login"]) && ($_POST["admin-login"])) {
     <section class="login my-5">
         <div class="container">
             <div class="img-admin text-center mb-3">
-                <img src="../uploads/logo.png" width="300px">
+                <img src="../uploads/delicate_logo.jpg" width="300px">
             </div>
             <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" class="form-container">
                 <?php
