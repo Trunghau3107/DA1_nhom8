@@ -35,7 +35,7 @@ if (isset($_SESSION["admin"]) && is_array($_SESSION["admin"]) && (count($_SESSIO
         <div class="container">
             <div class="header__logo">
                 <a href="index.php">
-                    <img src="../uploads/logo.png" width="100%">
+                    <img src="../uploads/delicate_logo.jpg" width="70%">
                 </a>
             </div>
 
