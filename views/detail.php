@@ -86,7 +86,7 @@ if (isset($product_detail['id_category'])) {
 
                 <ul class="description">
                     <li>Chất liệu: Bạc S925</li>
-                    <li>Thương hiệu: TLEE JEWELRY</li>
+                    <li>Thương hiệu: DELICATE JEWELRY</li>
                     <li>Đối tượng sử dụng: Nữ</li>
                     <li>Bảo hành: Làm sáng miễn phí trọn đời tại cửa hàng</li>
                 </ul>
