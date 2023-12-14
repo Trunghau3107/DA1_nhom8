@@ -1,5 +1,5 @@
 <?php
-$html_hot_product = show_box_product($hot_product);
+$html_hot_product = show_box_product($hot_product); //show sản phẩm hot
 
 $categories = getCategoriesWithHomeFlag();
 

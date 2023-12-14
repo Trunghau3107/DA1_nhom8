@@ -17,11 +17,11 @@ require_once "models/product.php";
 require_once "models/bill.php";
 
 //data home
-$hot_product = hot_product();
+$hot_product = hot_product(); //
 
-$home_product = get_products_by_home();
+$home_product = get_products_by_home();//
 
-$list_product = list_product();
+$list_product = list_product();//
 
 require_once "views/header.php";
 
